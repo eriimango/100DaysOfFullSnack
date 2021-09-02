@@ -1,12 +1,12 @@
 # 100DaysOfFullSnack
-My projects and builds using Full-Stack development skills and the pre-loaded syllabus 
+My projects and builds using Full-Stack development skills and a pre-loaded syllabus 
 <br>
 
 
 ![IMG-3083](https://user-images.githubusercontent.com/64378078/131769121-5cdf9a30-94ba-4796-b631-9fbea945709e.JPG)
 <br>
 
-• Also consider to work on theses things below 👇🏽to enhance back-end skills
+• Also consider working on these things below 👇🏽to enhance back-end skills
 <br>
 ![IMG-3084](https://user-images.githubusercontent.com/64378078/131769312-7c0bc9f8-54cd-4b38-b0ba-ae4246ecdebc.jpg)
 
@@ -21,7 +21,7 @@ My projects and builds using Full-Stack development skills and the pre-loaded sy
          7. Portfolio Site <br>
          
  <br>
-• Lastly here's some great resource links to help <br>
+• Lastly here's a great resources link to help <br>
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md
 
 
