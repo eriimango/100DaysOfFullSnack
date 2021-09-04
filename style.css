@@ -1,0 +1,87 @@
+body {
+	
+background-color: black;
+
+text-align:center;
+align-items: center;
+place-items: center;
+overflow: hidden;
+color:hotpink;
+font-family: 'graduate-regular', monospace;
+font-size:20px;
+
+
+}
+
+.container {
+	position: relative;
+	width: 350px;
+	height: 500px;
+	border-radius: 20px;
+	padding:40px;
+	box-sizing: border-box;
+	
+	
+	
+}
+.inputs {
+	text-align:left;
+	margin-top:30px;
+}
+
+label, input, button {
+	display: block;
+	width: 55%;
+	padding:0;
+	color: white;
+	outline: none;
+	box-sizing: border-box;
+	font-family: 'AvenirNext-Bold', sans-serif; ;
+}
+
+input::placeholder {
+	color:gray;
+}
+
+label {
+	margin-bottom: 4px;
+}
+
+input {
+	background: #000000;
+	padding: 10px;
+	padding-left: 20px;
+	height: 40px;
+	font-size:14px;
+	border-radius: 50px;
+	box-shadow: inset 6px 6px 6px #676767, inset -6px -6px 6px gray;
+}
+
+button {
+	margin-top: 20px;
+	background: #888888;
+	height: 40px;
+	border-radius: 20 px;
+	cursor: pointer;
+	font-weight:900;
+	box-shadow: 6px 6px 6px #676767, -6px -6px 6px ;
+	transition: 0.55s;
+}
+
+butoon:hover {
+	box-shadow: none;
+}
+
+h1 {
+font-family: 'AvenirNext-Bold', sans-serif;	
+font-size:65px;
+color:white;
+text-align:center;
+}
+
+p {
+font-family: 'AvenirNext-Bold', sans-serif;
+font-size:14px;
+text-align:center;
+color: white;
+}
